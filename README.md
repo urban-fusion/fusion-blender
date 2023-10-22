@@ -21,7 +21,7 @@ pip install dominate
 - Clone this repo:
 ```bash
 git clone https://github.com/NVIDIA/pix2pixHD
-cd pix2pixHD
+cd fusion-blender
 ```
 
 

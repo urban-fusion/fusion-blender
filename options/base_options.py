@@ -30,7 +30,7 @@ class BaseOptions:
             help="models are saved here",
         )
         self.parser.add_argument(
-            "--model", type=str, default="pix2pixHD", help="which model to use"
+            "--model", type=str, default="fusion-blender", help="which model to use"
         )
         self.parser.add_argument(
             "--norm",
